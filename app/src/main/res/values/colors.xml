@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF9800</color>
+    <color name="white">#673AB7</color>
+
+
+    <color name="Fondo">#006593</color>
+    <color name="CoBotones">#075375</color>
+</resources>
